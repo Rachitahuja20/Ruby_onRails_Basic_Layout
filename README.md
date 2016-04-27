@@ -1,4 +1,6 @@
 # Ruby on Rails 
 
-This is a sample application!
+Basic aplication with HTMl and CSS responsive pages. It is a basic layout for a sign up applciation. 
+
+Chapter 5
 
